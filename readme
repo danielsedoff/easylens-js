@@ -1,0 +1,12 @@
+easylens
+
+This small js code was created because our site wanted 
+a quick fix for vision accessibility.
+
+to toggle font size, use this HTML:
+
+<script src="easylens.js">
+
+...
+
+<a href="javascript:toggleLens();">LARGE FONTS</a>
