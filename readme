@@ -9,4 +9,6 @@ to toggle font size, use this HTML:
 
 ...
 
-<a href="javascript:toggleLens();">LARGE FONTS</a>
+<a href="javascript:toggleLens();"><img src="eye.png"></a>
+
+Image credits: https://pixabay.com/users/mohamed_hassan-5229782/
